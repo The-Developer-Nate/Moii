@@ -1,0 +1,19 @@
+{
+  "text.moii.delete_chunk": [
+    {
+      "text": "⚠",
+      "color": "red"
+    },
+    " ",
+    {
+      "text": "Delete Chunk",
+      "color": "white"
+    }
+  ],
+  "text.moii.flatten_chunk": [
+    {
+      "text": "Flatten Chunk",
+      "color": "white"
+    }
+  ]
+}
